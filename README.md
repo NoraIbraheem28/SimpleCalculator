@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple calculator project implemented in [programming language]. The calculator has a graphical user interface (GUI) with basic functionality, including addition, subtraction, multiplication, division, and clearing operations.
+This is a simple calculator project implemented in c#. The calculator has a graphical user interface (GUI) with basic functionality, including addition, subtraction, multiplication, division, and clearing operations.
 
 ## Project Structure
 
