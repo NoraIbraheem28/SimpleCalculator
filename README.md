@@ -6,7 +6,7 @@ This is a simple calculator project implemented in c#. The calculator has a grap
 
 ## Project Structure
 
-The main code file (`calculator.cs`) consists of three main methods:
+The main code file (`form1.cs`) consists of three main methods:
 
 <ol>
   <li>
